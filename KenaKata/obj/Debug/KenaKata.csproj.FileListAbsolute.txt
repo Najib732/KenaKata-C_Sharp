@@ -1,0 +1,11 @@
+G:\KenaKata\KenaKata\bin\Debug\KenaKata.exe.config
+G:\KenaKata\KenaKata\bin\Debug\KenaKata.exe
+G:\KenaKata\KenaKata\bin\Debug\KenaKata.pdb
+G:\KenaKata\KenaKata\obj\Debug\KenaKata.csproj.AssemblyReference.cache
+G:\KenaKata\KenaKata\obj\Debug\KenaKata.ProductAdd.resources
+G:\KenaKata\KenaKata\obj\Debug\KenaKata.Properties.Resources.resources
+G:\KenaKata\KenaKata\obj\Debug\KenaKata.csproj.GenerateResource.cache
+G:\KenaKata\KenaKata\obj\Debug\KenaKata.csproj.CoreCompileInputs.cache
+G:\KenaKata\KenaKata\obj\Debug\KenaKata.exe
+G:\KenaKata\KenaKata\obj\Debug\KenaKata.pdb
+G:\KenaKata\KenaKata\obj\Debug\KenaKata.SellingProduct.resources
